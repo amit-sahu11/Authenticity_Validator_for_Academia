@@ -1,0 +1,14 @@
+Demo Helper Credentials for Simulated OCR Verification
+======================================================
+
+In Simulated Ledger mode, the OCR engine is pre-programmed to read specific values from the uploaded certificate:
+
+* Student Full Name: Jane Doe
+* Enrollment / Roll Number: 1NTU18CS123
+* University / Board: Northern Tech University
+* Year of Graduation: 2022
+* Degree Type: Bachelor of Technology (B.Tech)
+
+Use the above exact values in the manual entry form to trigger a successful blockchain registration and verification match!
+
+If any other values are entered, the system will output a detailed mismatch discrepancy report, demonstrating the server's validation check.
